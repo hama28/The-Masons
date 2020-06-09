@@ -8,3 +8,5 @@ Firebase
 bootstrap studio
 rails テストフレームワーク
 RSpec
+開発
+SPA Angular React
