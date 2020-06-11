@@ -33,3 +33,8 @@ Firebaseほぼ週刊ブログ
 https://medium.com/google-cloud-jp/tagged/firebase
 コンテナ技術
 Dockerとか
+6/11
+github setting リモートリポジトリ
+https://www.atmarkit.co.jp/ait/articles/1701/24/news141.html
+リモートリポジトリで共有
+https://qiita.com/i-to-to-to-mi/items/2eb05786c2dffb46fd07
