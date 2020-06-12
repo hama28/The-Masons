@@ -39,5 +39,6 @@ https://www.atmarkit.co.jp/ait/articles/1701/24/news141.html
 リモートリポジトリで共有
 https://qiita.com/i-to-to-to-mi/items/2eb05786c2dffb46fd07
 6/12
-7/1はスーツ着用
-ビジネスマナーだってさ（　＾ω＾）・・・
+    7/1はスーツ着用
+    ビジネスマナーだってさ（　＾ω＾）・・・
+    
