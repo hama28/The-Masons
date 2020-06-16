@@ -47,4 +47,9 @@
     Reactでネイティブアプリ作成。よさげ。
     Udemy
     https://www.udemy.com/course/react-native-ios-android/
-    
+    ikesai
+    https://www.ikesai.com/cat/special/
+    Reactのインストールから作成まで
+    http://jsstudy.hatenablog.com/entry/React-learning_Environment-construction-with-create-react-app
+    VScodeのReact設定
+    https://www.jacepark.com/minimal-things-to-do-since-starting-vscode/
