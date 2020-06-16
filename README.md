@@ -53,3 +53,13 @@
     http://jsstudy.hatenablog.com/entry/React-learning_Environment-construction-with-create-react-app
     VScodeのReact設定
     https://www.jacepark.com/minimal-things-to-do-since-starting-vscode/
+    
+    home
+    COLOR TOOL
+    https://material.io/resources/color/#!/?view.left=0&view.right=0&secondary.color=FFEB3B&primary.color=2196F3
+    資料
+    https://fastcoding.jp/blog/all/webdesign/material-design2/
+    マテリアルデザイン入門
+    https://saruwakakun.com/html-css/material/color-use
+    フラットアイコンデザイン
+    http://flat-icon-design.com/
