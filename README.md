@@ -41,4 +41,5 @@ https://qiita.com/i-to-to-to-mi/items/2eb05786c2dffb46fd07
 6/12
     7/1はスーツ着用
     ビジネスマナーだってさ（　＾ω＾）・・・
-    
+6/16
+    React使うためにNode.jsインストールした。
