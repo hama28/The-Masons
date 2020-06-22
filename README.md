@@ -71,3 +71,9 @@
     前職はゲーム開発会社にて、企画や自社HPの運営・管理を行っていました。
     現在は訓練で学んだことを活かし、Webサービスのリリースを目標に、Ruby on Railsを使用した個人開発を行っています。
     就職後も自分のできることを増やし、フルスタックエンジニアを目指してキャリアを積みたいと考えています。
+6/22
+    コードサンプル
+    https://codepen.io/
+    anime.jsのコードサンプル
+    https://codepen.io/collection/XLebem/?__cf_chl_jschl_tk__=6bb75f68a745ec66686be4411f9a618f9f2eae78-1592786391-0-ARTVJVyu1J11SIrYYy-vGIclBDAksrmA4sxp8-JERgJVSeBvX_Z7MI8ftd3sG5_AvQarhfw-bfFmnsjxNtroieiJzw142bg2ez2inM5gi3DfWGJ1_BDGCz8L67A3s4WE45Q_qL_cBn_ZWWLf_pkcmqzfI1VqxjgdZARR60YqVQD5ngkiUK7PSqdUDxTFRCm_aKvncatW7CgPgQ0_JwenRXMiKP0s4XBkDXwZfDSYhJ8ioJ9etb1IlpzXErKxxjmmH3To23UzLDfJOn05ubbNvWrnq3wDqm38a0vxCXYIvVhhWoCC2pyK3ZA9tvE-TB9502DMVCYid3_hQUJGbwYY1RMHzzki4G4dnzTY7Oye7gRp
+    
