@@ -1,0 +1,10 @@
+6/23
+    firebaseでreactアプリのデプロイ
+    https://uxbear.me/firebase-deploy/
+    ToDo
+    ・Next.jsチュートリアル
+        https://qiita.com/thesugar/items/01896c1faa8241e6b1bc
+    ・Railsチュートリアル　0からデプロイまで
+        https://railstutorial.jp/chapters/beginning?version=5.1#cha-beginning
+    ・Reactでアプリ開発の記事　アニメ次なにみる
+        https://qiita.com/y_kawase/items/8f1b5a303400a09c4923
