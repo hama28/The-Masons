@@ -77,6 +77,7 @@
     anime.jsのコードサンプル
     https://codepen.io/collection/XLebem/?__cf_chl_jschl_tk__=6bb75f68a745ec66686be4411f9a618f9f2eae78-1592786391-0-ARTVJVyu1J11SIrYYy-vGIclBDAksrmA4sxp8-JERgJVSeBvX_Z7MI8ftd3sG5_AvQarhfw-bfFmnsjxNtroieiJzw142bg2ez2inM5gi3DfWGJ1_BDGCz8L67A3s4WE45Q_qL_cBn_ZWWLf_pkcmqzfI1VqxjgdZARR60YqVQD5ngkiUK7PSqdUDxTFRCm_aKvncatW7CgPgQ0_JwenRXMiKP0s4XBkDXwZfDSYhJ8ioJ9etb1IlpzXErKxxjmmH3To23UzLDfJOn05ubbNvWrnq3wDqm38a0vxCXYIvVhhWoCC2pyK3ZA9tvE-TB9502DMVCYid3_hQUJGbwYY1RMHzzki4G4dnzTY7Oye7gRp
 6/23
+
     firebaseでreactアプリのデプロイ
     https://uxbear.me/firebase-deploy/
     ToDo
@@ -86,3 +87,4 @@
         https://railstutorial.jp/chapters/beginning?version=5.1#cha-beginning
     ・Reactでアプリ開発の記事　アニメ次なにみる
         https://qiita.com/y_kawase/items/8f1b5a303400a09c4923
+        
