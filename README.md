@@ -108,3 +108,5 @@ home
 
     node.js v12.18.1
     npm 6.14.5
+    写経iHD3Z-4K
+    社長q49sXKp
