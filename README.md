@@ -34,7 +34,7 @@
     https://medium.com/google-cloud-jp/tagged/firebase
     コンテナー技術
         Dockerとか
-        
+
 6/11
     GitHub settingリモートリポジトリ
     https://www.atmarkit.co.jp/ait/articles/1701/24/news141.html
@@ -42,10 +42,12 @@
     https://qiita.com/i-to-to-to-mi/items/2eb05786c2dffb46fd07
 
 6/12
+
     7/1はスーツ着用
     ビジネスマナーだってさ（＾ω＾）・・・
 
 6/16
+
     React使うためにNode.jsインストールした。
     結構時間かかるな…。
 
@@ -70,6 +72,7 @@
     http://flat-icon-design.com/
 
 6/17
+
     希望
     Webエンジニア→プログラマー //範囲が狭くてもったいない。間口は広く。指名が来てから受ける受けないを選んだらいい。
     インフラエンジニア
@@ -79,6 +82,7 @@
     就職後も自分のできることを増やし、フルスタックエンジニアを目指してキャリアを積みたいと考えています。
 
 6/22
+
     コードサンプル
     https://codepen.io/
     anime.jsのコードサンプル
