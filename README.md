@@ -103,3 +103,8 @@
         https://railstutorial.jp/chapters/beginning?version=5.1#cha-beginning
     ・Reactでアプリ開発の記事　アニメ次なにみる
         https://qiita.com/y_kawase/items/8f1b5a303400a09c4923
+
+home
+
+    node.js v12.18.1
+    npm 6.14.5
