@@ -1,10 +1,12 @@
 # The-Masons
 6/8
+
     https://tech-camp.in/note/technology/40581/
     https://www.google.com/search?q=devise+rails&oq=devise&aqs=chrome.2.69i57j0l7.2686j0j7&sourceid=chrome&ie=UTF-8
     Firebase
 
 6/9
+
     モックアップツール
         bootstrap studio
     railsテストフレームワーク
@@ -16,6 +18,7 @@
     フロントエンド:React、サーバサイド:Ruby、フレームワーク:Ruby on Rails、インフラ:AWS、DB:SQLite3、ソースコード:GitHub、
 
 6/10
+
     NSOを支えるサーバーインフラ
     https://pages.awscloud.com/rs/112-TZM-766/images/D-06.pdf
     →AWS使ってる
@@ -36,6 +39,7 @@
         Dockerとか
 
 6/11
+
     GitHub settingリモートリポジトリ
     https://www.atmarkit.co.jp/ait/articles/1701/24/news141.html
     リモートリポジトリで共有
