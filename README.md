@@ -3,6 +3,7 @@
     https://tech-camp.in/note/technology/40581/
     https://www.google.com/search?q=devise+rails&oq=devise&aqs=chrome.2.69i57j0l7.2686j0j7&sourceid=chrome&ie=UTF-8
     Firebase
+
 6/9
     モックアップツール
         bootstrap studio
@@ -13,6 +14,7 @@
     150文字
     前職ではゲーム開発会社にてWebディレクターとして自社HPの運営・管理を行っていました。現在はWebアプリのリリースを目指し、個人開発を行っております。
     フロントエンド:React、サーバサイド:Ruby、フレームワーク:Ruby on Rails、インフラ:AWS、DB:SQLite3、ソースコード:GitHub、
+
 6/10
     NSOを支えるサーバーインフラ
     https://pages.awscloud.com/rs/112-TZM-766/images/D-06.pdf
@@ -32,14 +34,17 @@
     https://medium.com/google-cloud-jp/tagged/firebase
     コンテナー技術
         Dockerとか
+        
 6/11
     GitHub settingリモートリポジトリ
     https://www.atmarkit.co.jp/ait/articles/1701/24/news141.html
     リモートリポジトリで共有
     https://qiita.com/i-to-to-to-mi/items/2eb05786c2dffb46fd07
+
 6/12
     7/1はスーツ着用
     ビジネスマナーだってさ（＾ω＾）・・・
+
 6/16
     React使うためにNode.jsインストールした。
     結構時間かかるな…。
@@ -63,6 +68,7 @@
     https://saruwakakun.com/html-css/material/color-use
     フラットアイコンデザイン
     http://flat-icon-design.com/
+
 6/17
     希望
     Webエンジニア→プログラマー //範囲が狭くてもったいない。間口は広く。指名が来てから受ける受けないを選んだらいい。
@@ -71,11 +77,13 @@
     前職はゲーム開発会社にて、企画や自社HPの運営・管理を行っていました。
     現在は訓練で学んだことを活かし、Webサービスのリリースを目標に、Ruby on Railsを使用した個人開発を行っています。
     就職後も自分のできることを増やし、フルスタックエンジニアを目指してキャリアを積みたいと考えています。
+
 6/22
     コードサンプル
     https://codepen.io/
     anime.jsのコードサンプル
     https://codepen.io/collection/XLebem/?__cf_chl_jschl_tk__=6bb75f68a745ec66686be4411f9a618f9f2eae78-1592786391-0-ARTVJVyu1J11SIrYYy-vGIclBDAksrmA4sxp8-JERgJVSeBvX_Z7MI8ftd3sG5_AvQarhfw-bfFmnsjxNtroieiJzw142bg2ez2inM5gi3DfWGJ1_BDGCz8L67A3s4WE45Q_qL_cBn_ZWWLf_pkcmqzfI1VqxjgdZARR60YqVQD5ngkiUK7PSqdUDxTFRCm_aKvncatW7CgPgQ0_JwenRXMiKP0s4XBkDXwZfDSYhJ8ioJ9etb1IlpzXErKxxjmmH3To23UzLDfJOn05ubbNvWrnq3wDqm38a0vxCXYIvVhhWoCC2pyK3ZA9tvE-TB9502DMVCYid3_hQUJGbwYY1RMHzzki4G4dnzTY7Oye7gRp
+
 6/23
 
     firebaseでreactアプリのデプロイ
@@ -87,4 +95,3 @@
         https://railstutorial.jp/chapters/beginning?version=5.1#cha-beginning
     ・Reactでアプリ開発の記事　アニメ次なにみる
         https://qiita.com/y_kawase/items/8f1b5a303400a09c4923
-        
