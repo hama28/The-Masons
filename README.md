@@ -115,3 +115,5 @@ home
 
     歌舞伎　幕のいろいろ
     http://enmokudb.kabuki.ne.jp/phraseology/phraseology_category/butai/maku
+    Anime.js 美しいアニメーション
+    https://uxbear.me/tech-animejs-2/
