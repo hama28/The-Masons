@@ -110,3 +110,8 @@ home
     npm 6.14.5
     写経iHD3Z-4K
     社長q49sXKp
+
+6/24
+
+    歌舞伎　幕のいろいろ
+    http://enmokudb.kabuki.ne.jp/phraseology/phraseology_category/butai/maku
