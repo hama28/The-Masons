@@ -117,3 +117,9 @@ home
     http://enmokudb.kabuki.ne.jp/phraseology/phraseology_category/butai/maku
     Anime.js 美しいアニメーション
     https://uxbear.me/tech-animejs-2/
+
+6/26
+
+    アクセストークン、多分
+    c6024bfd35180ecb21c08802faf8c23310f1283e
+    
