@@ -118,8 +118,23 @@ home
     Anime.js 美しいアニメーション
     https://uxbear.me/tech-animejs-2/
 
-6/26
+## 6/26
 
     アクセストークン、多分
     c6024bfd35180ecb21c08802faf8c23310f1283e
-    
+    モックアップ作成
+    https://moqups.com/
+        mhで登録
+        pwはいつものido
+    bootstrap そろそろ触ろうか
+    https://getbootstrap.com/
+    モックアップ作成　sketch or bootstrap studioがよさげ、買い切り型やし
+    https://www.sketch.com/
+    https://bootstrapstudio.io/
+    TensorFlow
+    https://www.tensorflow.org/?hl=ja
+    機械学習やるなら、やっぱPythonか…
+    paizaのPython講座やってみる
+- 機械学習ライブラリ
+    - Tensorflow　→　Googleが開発しオープンソース
+    - Keras　→　ディープニュートラルネットワークの構築
