@@ -140,7 +140,7 @@ home
     - Keras　→　ディープニュートラルネットワークの構築
     
 ## 6/29
-    [ディープラーニングで文章を自動生成したい！](https://blog.aidemy.net/entry/2018/10/05/195404)
+[ディープラーニングで文章を自動生成したい！](https://blog.aidemy.net/entry/2018/10/05/195404)
     [初心者のためのFlaskアプリ開発](https://yukituna.com/1146/)
     [Python初心者がたったの3日間でチャットボットを作った](https://yukituna.com/1202/)
     [YouTube Date API](https://developers.google.com/youtube/v3/getting-started?hl=ja)
