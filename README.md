@@ -148,4 +148,4 @@ home
 ## 6/30
 [Quora](https://jp.quora.com/)  
 googleで登録した(mh)  
-
+[【24個掲載】機械学習で使えるデータセット一挙勢揃い！](https://www.codexa.net/ml-dataset-list/)  
