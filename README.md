@@ -144,3 +144,8 @@ home
 [初心者のためのFlaskアプリ開発](https://yukituna.com/1146/)  
 [Python初心者がたったの3日間でチャットボットを作った](https://yukituna.com/1202/)  
 [YouTube Date API](https://developers.google.com/youtube/v3/getting-started?hl=ja)  
+
+## 6/30
+[Quora](https://jp.quora.com/)  
+googleで登録した(mh)  
+
