@@ -149,3 +149,4 @@ home
 [Quora](https://jp.quora.com/)  
 googleで登録した(mh)  
 [【24個掲載】機械学習で使えるデータセット一挙勢揃い！](https://www.codexa.net/ml-dataset-list/)  
+[PythonでYoutube動画検索](https://ossyaritoori.hatenablog.com/entry/2018/01/22/Python%E3%81%A7Youtube%E5%8B%95%E7%94%BB%E6%A4%9C%E7%B4%A2)  
