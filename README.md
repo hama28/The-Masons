@@ -151,3 +151,14 @@ googleで登録した(mh)
 [【24個掲載】機械学習で使えるデータセット一挙勢揃い！](https://www.codexa.net/ml-dataset-list/)  
 [PythonでYoutube動画検索](https://ossyaritoori.hatenablog.com/entry/2018/01/22/Python%E3%81%A7Youtube%E5%8B%95%E7%94%BB%E6%A4%9C%E7%B4%A2)  
 [自動文章生成AI（LSTM）に架空の歴史を作成させた方法とアルゴリズム](https://spjai.com/ai-history/)  
+↑このサイトオヌヌメ  
+
+## 7/3
+[10時間くらいでYouTubeチャンネルの再生回数を取得するサーバレスな構築を作ってみた](https://dev.classmethod.jp/articles/lambda_youtube_views/)  
+[Google Colaboratoryで試せる面白い機械学習プロジェクト6選](https://tkrel.com/10041)  
+[AI/機械学習 × Raspberry Pi(ラズパイ)の可能性を感じる事例まとめ16選](https://tkrel.com/9061)  
+[PythonでJSONデータを操作する](https://www.codeflow.site/ja/article/python-json)  
+[【Python】 GET・POSTリクエストによるWebデータの取得（Requestsモジュール）](https://hibiki-press.tech/python/requests_module/1882)  
+[requestsモジュールを利用してjson形式でレスポンスを得る](https://toricor.hatenablog.com/entry/2016/01/16/160406)  
+[PythonでJSONデータを扱う工夫](https://www.techscore.com/blog/2019/12/16/better-way-handling-json-data-in-python/)  
+[YouTube APIの仕組みとブラウザだけでデータ取得する方法](https://diy-programming.site/tools/movie-matome-site-3/)  
