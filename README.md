@@ -162,3 +162,6 @@ googleで登録した(mh)
 [requestsモジュールを利用してjson形式でレスポンスを得る](https://toricor.hatenablog.com/entry/2016/01/16/160406)  
 [PythonでJSONデータを扱う工夫](https://www.techscore.com/blog/2019/12/16/better-way-handling-json-data-in-python/)  
 [YouTube APIの仕組みとブラウザだけでデータ取得する方法](https://diy-programming.site/tools/movie-matome-site-3/)  
+
+## 7/6
+[【技術解説】形態素解析とは？MeCabインストール手順からPythonでの実行例まで](https://mieruca-ai.com/ai/morphological_analysis_mecab/)  
