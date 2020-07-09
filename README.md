@@ -165,3 +165,6 @@ googleで登録した(mh)
 
 ## 7/6
 [【技術解説】形態素解析とは？MeCabインストール手順からPythonでの実行例まで](https://mieruca-ai.com/ai/morphological_analysis_mecab/)  
+
+## 7/9
+[業界別カオスマップ スマホゲームから人工知能まで市場現状が丸わかり](https://jp.techcrunch.com/special/industry-chaos-map/?tc_side_bnr)  
