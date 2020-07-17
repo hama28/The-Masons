@@ -168,3 +168,6 @@ googleで登録した(mh)
 
 ## 7/9
 [業界別カオスマップ スマホゲームから人工知能まで市場現状が丸わかり](https://jp.techcrunch.com/special/industry-chaos-map/?tc_side_bnr)  
+
+## 7/17
+[2万4000超の開発者に聞いた、Pythonでよく使うフレームワークは？](https://news.mynavi.jp/article/20200507-1031823/?utm_source=logly_under-article-pc)  
