@@ -171,3 +171,7 @@ googleで登録した(mh)
 
 ## 7/17
 [2万4000超の開発者に聞いた、Pythonでよく使うフレームワークは？](https://news.mynavi.jp/article/20200507-1031823/?utm_source=logly_under-article-pc)  
+
+## 7/21
+[APIではじめるディープラーニング・アプリケーション開発: Google Cloud API活用入門 (日本語) 単行本 – 2020/1/17](https://www.amazon.co.jp/API%E3%81%A7%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E9%96%8B%E7%99%BA-Google-Cloud-API%E6%B4%BB%E7%94%A8%E5%85%A5%E9%96%80-%E3%82%AD%E3%83%A3%E3%83%83%E3%83%84/dp/4274224007/ref=sr_1_8?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=api&qid=1595213933&sr=8-8)  
+[AWSでつくる AIプログラミング入門 (日本語) 単行本 – 2019/12/12](https://www.amazon.co.jp/AWS%E3%81%A7%E3%81%A4%E3%81%8F%E3%82%8B-AI%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E5%85%A5%E9%96%80-%E6%9D%BE%E6%B5%A6-%E5%81%A5%E4%B8%80%E9%83%8E/dp/4798059056/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)  
