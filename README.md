@@ -179,3 +179,8 @@ googleで登録した（mh）
 ## 7/22
 [djangoドキュメント はじめてのDjangoアプリ作成、その１](https://docs.djangoproject.com/ja/2.1/intro/tutorial01/)  
 [Django Girlsのチュートリアル](https://tutorial.djangogirls.org/ja/)  
+
+## 8/7
+連休前のまとめ  
+[プログラマの採用面接で聞かれる、データ構造とアルゴリズムに関する50以上の質問](https://postd.cc/50-data-structure-and-algorithms-interview-questions-for-programmers/)  
+[ハッカーニュース](https://news.ycombinator.com/)  
