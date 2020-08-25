@@ -185,7 +185,5 @@ googleで登録した（mh）
 [プログラマの採用面接で聞かれる、データ構造とアルゴリズムに関する50以上の質問](https://postd.cc/50-data-structure-and-algorithms-interview-questions-for-programmers/)  
 [ハッカーニュース](https://news.ycombinator.com/)  
 
-## 8/21
-指名求人
-[株式会社シティビルサービス](https://xn--pckua2a7gp15o89zb.com/jbi/184d72b82c6c4220ce9d8a56f19d4eb6)  
-おそらくこの内容と同じ  
+## 8/25
+[政府統計API](https://www.e-stat.go.jp/api/)  
