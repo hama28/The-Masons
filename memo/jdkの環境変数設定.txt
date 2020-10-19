@@ -1,0 +1,13 @@
+システム環境変数
+
+JAVA_HOME
+C:/　　　　 ※jdkのpath
+
+PATH
+　※jdkの追加
+
+
+インストールできたら
+vscodeのjsonにも追記
+
+"java.home": "C:/　※jdkの場所　",

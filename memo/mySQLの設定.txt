@@ -1,0 +1,11 @@
+mysql
+binのディレクトリで以下のコマンドでrootユーザーでログイン
+C:\xampp\mysql\bin>mysql -u root -p
+
+※cmdで実行すること
+
+
+「source」コマンドを使うことで、「○○.sql」で作成したものを一気に動かすことができる。
+source c:\xampp\htdocs\php_lessons\Ch09-mySQL\setting.sql
+
+※「source」と入力したあとに、設定したsqlファイルをcmdにドラッグ＆ドロップすればファイルパスが自動入力される
